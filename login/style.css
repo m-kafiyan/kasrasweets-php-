@@ -101,3 +101,34 @@ body.adminpage div.exit a{
 	line-height: 29px;
 	display: block;
 }
+body.adminpage li{
+	list-style-type: none;
+	margin-top: 100px;
+	width: 128px;
+	height: 128px;
+	float: left;
+	margin-left: 150px;
+}
+body.adminpage li a{
+	display: block;
+	width: 128px;
+	height: 128px;
+}
+body.adminpage li.addtext {
+	background-image: url('images/text.png');
+}
+body.adminpage li.addpic {
+	background-image: url('images/pic.png');
+}
+body.adminpage li.addcart{
+	background-image: url('images/add to cart.png');
+}
+body.adminpage li.delete {
+	background-image: url('images/delete.png');
+}
+body.adminpage li.homepage{
+	background-image: url('images/site index.png');
+}
+body.adminpage li.setting{
+	background-image: url('images/setting.png');
+}
