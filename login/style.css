@@ -47,3 +47,57 @@ section.adminlogin form button{
 section.adminlogin form button:hover{
 	background-color: #D61E09;
 }
+/*adminpage......................................................*/
+
+body.adminpage{
+	background-image: none !important;
+}
+body.adminpage div.part1{
+	background-image: url('images/bg-login-top.png');
+	background-repeat: repeat;
+	width: auto;
+	height: 180px;
+}
+body.adminpage div.part2{
+	background-image: url('images/search-inner-wrapper.png');
+	background-repeat: repeat;
+	width: auto;
+	height: 4px;
+}
+body.adminpage div.part3{
+	background-image: url('images/bg-login.png');
+	background-repeat: repeat;
+	width: auto;
+	min-height: 513px;
+}
+body.adminpage div.logoim{
+	background-image: url('images/header1 copy.png');
+	width: 300px;
+	height: 180px;
+	float: left;
+}
+body.adminpage div.welcome{
+	width: 400px;
+	height: 47px;
+	float: left;
+	margin-top: 90px;
+	color: rgb(112, 45, 45);
+	font-family: 'Satisfy', cursive;
+	font-size: 23px;
+}
+body.adminpage div.exit{
+	float: right;
+	width: 100px;
+	height: 30px;
+	background-color: #fff;
+	margin-top: 147px;
+	opacity: 0.6;
+}
+body.adminpage div.exit a{
+	text-decoration: none;
+	color:  rgb(112, 45, 45);
+	font-family: 'Satisfy', cursive;
+	font-size: 21px;
+	line-height: 29px;
+	display: block;
+}
