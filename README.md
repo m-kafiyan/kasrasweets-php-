@@ -1,7 +1,7 @@
 ## Kasra Confectionary 
 
 ================================
-##kasrasweet website: www.Kasrasweets.com
+
 ### Discription :
 This website is for kasra confectionary who produce different kind of pastry and cookies and many other thing which every one love it.
 
